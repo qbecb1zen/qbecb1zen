@@ -1,12 +1,11 @@
 <h1 align="center">
     <strong>
-        Welcome to my profile!<img src="assets/wave.gif" alt="hi"  width=50 height=40 />
+        Hey, I'm Amine!<img src="assets/wave.gif" alt="hi"  width=50 height=40 />
     </strong>
 </h1>
 
-<h2 align="center">
-    Glad to see you here 😍
-</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+developer+🖥;Feel+free+to+connect+to+me+📫)](https://git.io/typing-svg)
 
 
 ---
@@ -15,8 +14,10 @@
 
  <a  align="center" href="https://twitter.com/LouzarAmine">
  <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LouzarAmine"></a> 
- <a href="https://www.linkedin.com/in/aminelouzar/" align="center" >
- <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminelouzar//"></a>
+ <a href="https://www.linkedin.com/in/aminelouzar" align="center" >
+ <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminelouzar"></a>
+ <a href="https://www.root-me.org/qbecb1Zen-555192" align="center" >
+ <img align="center"  alt="Root-me" src="https://img.shields.io/badge/-RootMe-222222?style=flat-square&logo=SpringSecurity&logoColor=white&link=https://www.root-me.org/qbecb1Zen-555192"></a>
 
  </p>
 
@@ -24,11 +25,10 @@
 ---
 
 
-<a href=""><img width="35%" align="right" alt="Github" src="./assets/cat.gif" /></a>
+<a href=""><img width="245px" height="279px" align="right" alt="Github" src="./assets/cat.gif" /></a>
 
-<br/>
 
-- 🎓 I’m currently pursuing a Master of Engineering in Computer Science and CyberSecurity @[CentraleSupélec](https://www.centralesupelec.fr/)
+- 🎓 I’m currently pursuing a Master of Engineering in Computer Science and CyberSecurity @<a href="https://www.centralesupelec.fr" target="_blank">CentraleSupélec</a>
 
 
 <br/>
@@ -39,7 +39,6 @@
 <br/>
 
 - 👯 Working on different personal/freelance projects on my free time.
-
 
 <br/>
 
