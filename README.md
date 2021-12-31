@@ -20,9 +20,7 @@
 
 
 ---
-
-
-<a href=""><img width="245px" height="279px" align="right" alt="Github" src="./assets/cat.gif" /></a>
+<a href=""><img width="30%" align="right" alt="Github" src="./assets/cat.gif" /></a>
 
 
 - 🎓 I’m currently pursuing a Master of Engineering in Computer Science and CyberSecurity @<a href="https://www.centralesupelec.fr" target="_blank">CentraleSupélec</a>
