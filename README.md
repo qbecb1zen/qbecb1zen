@@ -29,7 +29,7 @@
 
 <br/>
 
-- 👯 Working on different personal/freelance projects on my free time.
+- 👯 Working on different personal/freelance projects in my free time.
 
 <br/>
 
