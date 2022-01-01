@@ -25,7 +25,7 @@
 
 <br/>
 
-- 📚 Daily learning and practicing more of my web/mobile/software development with the best practices.
+- 📚 I’m actively looking for interesting open source projects to contribute to.
 
 <br/>
 
