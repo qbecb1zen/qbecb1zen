@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+and+mobile+developer+🖥;Open+source+lover+🚀;Feel+free+to+connect+to+me+📫)](https://github.com/qbecb1zen)
 
-<center>
+<p align="center">
 
  <a  align="center" href="https://twitter.com/LouzarAmine">
  <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LouzarAmine"></a> 
@@ -15,7 +15,7 @@
  <a href="https://www.root-me.org/qbecb1Zen-555192" align="center" >
  <img align="center"  alt="Root-me" src="https://img.shields.io/badge/-RootMe-222222?style=flat-square&logo=SpringSecurity&logoColor=white&link=https://www.root-me.org/qbecb1Zen-555192"></a>
  
- </center>
+ </p>
 
 ---
 
@@ -35,11 +35,11 @@
 
 - 📫 I am often available through my Twitter/LinkedIn for a tech chat around a ~~virtual~~ cup of coffee ☕.
 
-<center>
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=qbecb1zen)
 
-</center>
+</div>
 
 ---
 
