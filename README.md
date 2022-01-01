@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+and+mobile+developer+🖥;Open+source+lover+🚀;Feel+free+to+connect+to+me+📫)](https://github.com/qbecb1zen)
 
----
-
 <p align="center">
 
  <a  align="center" href="https://twitter.com/LouzarAmine">
