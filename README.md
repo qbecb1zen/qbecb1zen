@@ -1,11 +1,10 @@
 <h1 align="center">
     <strong>
-        Hey, I'm Amine!<img src="assets/wave.gif" alt="hi"  width=50 height=40 />
+        Hey, I'm Amine!<img src="assets/hello.gif" alt="hi"  width=50 height=40 />
     </strong>
 </h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+developer+🖥;Feel+free+to+connect+to+me+📫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=32a83a&height=100&width=1000&lines=Always+learning+new+things...;Full-stack+web+and+mobile+developer+🖥;Open+source+lover+🚀;Feel+free+to+connect+to+me+📫)](https://github.com/qbecb1zen)
 
 <p align="center">
 
@@ -41,3 +40,6 @@
 
 
 ---
+
+
+![Amine](https://activity-graph.herokuapp.com/graph?username=qbecb1zen&theme=chartreuse-dark&bg_color=white&line=6effee&hide_border=true)
